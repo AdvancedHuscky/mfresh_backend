@@ -1,0 +1,31 @@
+{
+  "name": "mfresh_backend",
+  "version": "1.0.0",
+  "description": "mfresh backend node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdvancedHuscky/mfresh_backend.git"
+  },
+  "keywords": [
+    "mfresh",
+    "backen",
+    "node"
+  ],
+  "author": "William",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdvancedHuscky/mfresh_backend/issues"
+  },
+  "homepage": "https://github.com/AdvancedHuscky/mfresh_backend#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "compression": "^1.7.2",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0",
+    "mysql": "^2.15.0"
+  }
+}
